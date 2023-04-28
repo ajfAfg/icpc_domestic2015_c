@@ -1,0 +1,8 @@
+(library
+ (name icpc_domestic2015_c))
+
+(menhir
+ (modules parser))
+
+(ocamllex
+ (modules lexer sub))
