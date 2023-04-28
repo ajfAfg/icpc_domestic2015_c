@@ -5,4 +5,4 @@
  (modules parser))
 
 (ocamllex
- (modules lexer sub))
+ (modules lexer))
