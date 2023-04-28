@@ -29,7 +29,7 @@
 
 を次のような字句の列に変換する（見やすさのために改行や空白を入れているが，これらに構文的な意味はない）．`INPERIOD` がインデントが深くなることを意味し，`DEPERIOD` がインデントが浅くなることを意味する．
 
-かの Python もこの方法を採用しているっぽい (c.f. https://docs.python.org/3/reference/grammar.html)．
+かの Python もこの方法を採用しているっぽい（[公式ドキュメント](https://docs.python.org/3/reference/grammar.html)）．
 
 ```txt
 PLUS NEWLINE
